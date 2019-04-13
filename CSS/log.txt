@@ -1,0 +1,107 @@
+commit c6fdf941c48f80a96950799ed8f9c615345ec225
+Merge: acadcce 2958476
+Author: LeonardoCeni <studente.ceni.leonardo@gmail.com>
+Date:   Sat Apr 13 11:29:23 2019 +0200
+
+    fix errore merge
+
+commit acadcce2f380256f85e0b63a642b834e3b9ff0ad
+Author: LeonardoCeni <studente.ceni.leonardo@gmail.com>
+Date:   Sat Apr 13 11:27:20 2019 +0200
+
+    inserito colore sfondo blu
+
+diff --git a/CSS/style.css b/CSS/style.css
+index e69de29..d60afbd 100644
+--- a/CSS/style.css
++++ b/CSS/style.css
+@@ -0,0 +1,3 @@
++body {
++    background-color: blue;
++}
+\ No newline at end of file
+
+commit 29584762d4e86e7a06078973521cf3d3e775a0e6
+Author: LeonardoCeni <studente.ceni.leonardo@gmail.com>
+Date:   Sat Apr 13 11:24:33 2019 +0200
+
+    inserito colore sfondo rosso
+
+diff --git a/CSS/style.css b/CSS/style.css
+index e69de29..12f7b21 100644
+--- a/CSS/style.css
++++ b/CSS/style.css
+@@ -0,0 +1,4 @@
++body {
++	background-color: red;
++}
++
+
+commit f33450b98c63499b899cadfc608d3e73e7dcc981
+Author: LeonardoCeni <studente.ceni.leonardo@gmail.com>
+Date:   Sat Apr 13 11:22:31 2019 +0200
+
+    inserita immagine per la pagina home
+
+diff --git a/IMG/flat,550x550,075,f.jpg b/IMG/flat,550x550,075,f.jpg
+new file mode 100644
+index 0000000..0781a3b
+Binary files /dev/null and b/IMG/flat,550x550,075,f.jpg differ
+
+commit eabffbbc8ab07e584c7fac1013edd3c735fb84c6
+Merge: aa332b1 62a8215
+Author: LeonardoCeni <studente.ceni.leonardo@gmail.com>
+Date:   Sat Apr 13 11:19:47 2019 +0200
+
+    Fusione Ramo Contatti
+
+commit 62a821578737b3caeb5af7a589d1ae8bebac76ef
+Author: LeonardoCeni <studente.ceni.leonardo@gmail.com>
+Date:   Sat Apr 13 11:16:41 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/CSS/widget.css b/CSS/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit 5405076f362feec6a36bd9c96bad4a5bf0dff712
+Author: LeonardoCeni <studente.ceni.leonardo@gmail.com>
+Date:   Sat Apr 13 11:15:35 2019 +0200
+
+    Creata la pagina contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 8e78007d53dfa0ccef2d9113be25c1de5a15b571
+Author: LeonardoCeni <studente.ceni.leonardo@gmail.com>
+Date:   Sat Apr 13 11:14:24 2019 +0200
+
+    Inserita immagine
+
+diff --git a/IMG/photo_2019-03-09_09-10-19.jpg b/IMG/photo_2019-03-09_09-10-19.jpg
+new file mode 100644
+index 0000000..f108d8d
+Binary files /dev/null and b/IMG/photo_2019-03-09_09-10-19.jpg differ
+
+commit aa332b10b36025e0411719d5067a5f3669c46322
+Author: LeonardoCeni <studente.ceni.leonardo@gmail.com>
+Date:   Sat Apr 13 11:13:37 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 25d0688a66a6c8b9fa52f16b59a7c56710fbfe13
+Author: LeonardoCeni <studente.ceni.leonardo@gmail.com>
+Date:   Sat Apr 13 11:12:53 2019 +0200
+
+    PrimPrima Commit
+
+diff --git a/CSS/style.css b/CSS/style.css
+new file mode 100644
+index 0000000..e69de29
